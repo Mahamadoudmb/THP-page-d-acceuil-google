@@ -1,0 +1,101 @@
+
+
+
+
+.google-header
+{
+    width: 100%;
+    max-height: 500px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.google-header img
+{
+  max-width: 100%;
+    border-radius: 50%;
+}
+
+.gmail-img
+{
+    border-radius: 50%;
+    width: 33px;
+    float: right;
+    margin-top: 16px;
+    margin-right: 18px;
+  
+    cursor: pointer;
+}
+
+.header-icons
+{
+    float: right;
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 10px;   
+}
+
+.header-icons .fa-th
+{
+    font-size: 20px;
+    margin-top: 5px;
+    color: gray;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.header-icons .fa-th :hover
+{
+    color: #000;
+}
+
+.header-icons a
+{
+    float: right;
+    margin-right: 15px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.header-icons a:hover
+{
+    color: gray;
+}
+
+.displayed
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.input-group
+{
+    margin: 13px auto 10px;
+    border-radius: 40px; 
+    max-width: 550px;
+    background-color: #F5F5F5;
+
+}  
+
+.google-search
+{
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+
+.navbar{
+    margin-top:  20px;
+    box-shadow: 0 0 0 0 ; width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+     border-radius: 100%;  }
+
+.navbar .barre
+{
+    margin-top: 40px;margin-left: auto;
+    margin-right: auto;
+}
